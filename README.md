@@ -78,4 +78,4 @@ Exiting the Application:
 Choose option 9 from the menu.
 Notes
 Ensure that the "todo.txt" file is in the same directory as the executable.
-Loading tasks will overwrite the current list. and you can help your self in a good manner that you can track your record.
+Loading tasks will overwrite the current list. and you can help your self in a good manner that you can track your record
